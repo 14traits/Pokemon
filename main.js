@@ -1,7 +1,7 @@
  const apiData = {
      url: 'https://pokeapi.co/api/v2/',
      type: 'pokemon',
-     id: '450',
+     id: '133',
  }
 
  const {url, type, id} =apiData
